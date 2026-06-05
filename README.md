@@ -16,9 +16,7 @@
 
 ## 项目介绍视频
 
-[![掌上 Jarvis 项目介绍视频](./docs/media/jarvis-preview.png)](./docs/media/pocket-jarvis-agent-demo.mp4)
-
-[在仓库内观看 mp4 介绍视频](./docs/media/pocket-jarvis-agent-demo.mp4)
+[播放项目介绍视频](./docs/media/pocket-jarvis-agent-demo.mp4?raw=1)
 
 ## 项目定位
 
