@@ -1,2 +1,19 @@
 build/
 debug.keystore
+
+# Local screenshots and scratch documents should not clutter the GitHub root.
+/*.png
+/*.md
+!/README.md
+/window.xml
+
+# Local presentation/planning exports.
+/docs/*.docx
+/docs/*.pptx
+/docs/assets/
+/docs/product-ia.md
+/docs/visual-assets.md
+/docs/visual-redesign-spec.md
+/docs/pre.md
+/docs/v1.md
+/docs/architecture-prompts/
